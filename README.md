@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning and teaching
 - 🌱 I’m currently learning Git and GitHub
 - 💞️ I’m looking to collaborate on Generative AI
-- 📫 How to reach me ashishsom@
+- 📫 How to reach me ashishsom@learnbay.co
 - 😄 Pronouns: He
 - ⚡ Fun fact: learning is fun
 
